@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -16,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -35,10 +43,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1511" y="587" key="#Chrome_Settings" timestamp="1587463735776">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1511" y="587" key="#Chrome_Settings/0.0.3440.1400@0.0.3440.1400" timestamp="1587463735776" />
     <state x="1602" y="561" key="#Notifications" timestamp="1587463385712">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1602" y="561" key="#Notifications/0.0.3440.1400@0.0.3440.1400" timestamp="1587463385712" />
+    <state x="1514" y="485" key="#Web_Browsers" timestamp="1587463739027">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1514" y="485" key="#Web_Browsers/0.0.3440.1400@0.0.3440.1400" timestamp="1587463739027" />
     <state x="1500" y="454" key="FileChooserDialogImpl" timestamp="1587463408988">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
